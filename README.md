@@ -10,7 +10,7 @@ How we can identify SMS messages.</div>
 
 The traffic that the normal user of a telecommunication network is concerned with is voice and data. 
 
-This project familiar with SMS traffic which falls under the data category.</div>
+> **This project familiar with SMS traffic which falls under the data category** .</div>
 
 <p>So...Are you ready?</p>
 
