@@ -1,4 +1,4 @@
-# GSM_Sniffing_SMS_Traffic
+# Sniffing_SMS_Traffic
 
 
 <div>This project include our worksheet that explain how GSM traffic can be sniffed with the HackRF One.
