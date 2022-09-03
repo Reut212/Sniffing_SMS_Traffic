@@ -14,4 +14,4 @@ This project familiar with SMS traffic which falls under the data category.</div
 
 <p>So...Are you ready?</p>
 
-### Let’s get right into it!
+### Let’s get right into it! :nerd_face:
