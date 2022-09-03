@@ -1,7 +1,7 @@
 # Sniffing_SMS_Traffic
 
 
-<div>This project include our worksheet that explain how GSM traffic can be sniffed with the HackRF One.
+<div>This project include a worksheet that explain how GSM traffic can be sniffed with the HackRF One.
 
 And even more specific.. 
 How we can identify SMS messages.</div>
