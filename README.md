@@ -4,7 +4,7 @@
 <div>This project include our worksheet that explain how GSM traffic can be sniffed with the HackRF One.
 
 And even more specific.. 
-How we can identify SMS messages</div>
+How we can identify SMS messages.</div>
 
 <div>GSM traffic carries a lot of information, from system information to the actual voice and data we are familiar with.
 
