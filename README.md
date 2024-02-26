@@ -15,3 +15,4 @@ The traffic that the normal user of a telecommunication network is concerned wit
 <p>So...Are you ready?</p>
 
 ### Let’s get right into it! :nerd_face:
+[Click Here](https://github.com/Reut212/Sniffing_SMS_Traffic/blob/main/GSM%20-%20Sniffing%20SMS%20traffic.pdf)
